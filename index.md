@@ -36,19 +36,6 @@ title: ホーム
   <a href="{{ '/posts/' | relative_url }}">すべての記事を見る &rarr;</a>
 </p>
 {% endif %}
-
-{% comment %}
-{% else %}
-
-今後以下のような内容を投稿予定です：
-
-- Java基礎解説
-- Spring Boot入門
-- Git/GitHub使い方
-- プログラミング学習方法
-- 技術書レビュー
-
-{% endcomment %}
 {% endif %}
 
 ## お知らせ

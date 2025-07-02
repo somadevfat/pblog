@@ -11,8 +11,6 @@ title: タグ一覧
 {% endfor %}
 </div>
 
-<hr>
-
 <div class="tag-list">
   {% for tag in site.tags %}
     <div class="tag-item">
