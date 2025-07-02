@@ -26,11 +26,7 @@ exclude:
   - README.md
   - vendor
 
-# Collections for future use
-collections:
-  posts:
-    output: true
-    permalink: /:year/:month/:day/:title/
+# Collections for future use (postsは削除 - Jekyllの標準設定を使用)
 
 # Pagination (for future)
 paginate: 5
