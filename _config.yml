@@ -12,7 +12,7 @@ author:
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: minima
+# theme: minima  # テーマを無効化してREADME表示問題を解決
 
 # Plugins
 plugins:
