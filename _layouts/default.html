@@ -16,6 +16,11 @@
     <header>
         <nav>
             <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+            <div class="nav-links">
+                <a href="{{ '/' | relative_url }}">ホーム</a>
+                <a href="{{ '/categories.html' | relative_url }}">カテゴリ</a>
+                <a href="{{ '/tags.html' | relative_url }}">タグ</a>
+            </div>
             <p>{{ site.description }}</p>
         </nav>
     </header>
