@@ -1,8 +1,8 @@
 # Site settings
 title: pblog
 description: 技術解説とプログラミング学習のブログ
-baseurl: ""
-url: "https://somadevfat.github.io/pblog"
+baseurl: "/pblog"
+url: "https://somadevfat.github.io"
 
 # Author
 author: 
