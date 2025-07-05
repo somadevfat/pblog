@@ -28,8 +28,6 @@ Vimの操作を「目的別のまとまり」と「やりたいことの五十�
 * [か行](#index-ka)
 * [さ行](#index-sa)
 * [た行](#index-ta)
-* [な行](#index-na)
-* [は行](#index-ha)
 * [ら行](#index-ra)
 
 ---
@@ -114,7 +112,7 @@ Vimの操作を「目的別のまとまり」と「やりたいことの五十�
 * [指定した行に移動する](#goto-line-number)
 * [終了する](#quit)
 * [すべて置換する](#replace-all)
-* [選択する（文字単位）](#visual-char)
+* [文字を選択する](#visual-char)
 * [検索する](#search)
 
 ### た行
